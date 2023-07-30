@@ -13,7 +13,7 @@ This tutorial outlines the proper utilization of Microsoft Active Directory. Act
 
 - Windows 10</b>
 <h2>Managing Users and Groups<h2>
-1. Open the Active Directory Administrative Center (ADAC). You can find it by typing "active" into the Windows start menu.
+ Open the Active Directory Administrative Center (ADAC). You can find it by typing "active" into the Windows start menu.
 <p><img alt="" src="https://cdn.qwiklabs.com/3RaKcfhSZ2kffGXVHZqQb4eohABAU4IWptWYcEj%2FdpM%3D" style="height:674px; width:391px" /></p>
 
 The Active Directory Administrative Center allows you to manage your Active Directory installation, by configuring users, groups, computers, and more. Feel free to browse around the resources that already exist in the directory.
